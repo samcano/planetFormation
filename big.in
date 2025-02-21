@@ -1,0 +1,17 @@
+)O+_06 Big-body initial data  (WARNING: Do not delete this line!!) 
+) Lines beginning with ) are ignored. 
+)--------------------------------------------------------------------- 
+ style (Cartesian,Asteroidal, Cometary) = Asteroidal 
+ epoch (in days) = 0.0 
+)--------------------------------------------------------------------- 
+bigTestPlanet m=1.0 r=1.5 d=1.0
+1.0  0.1 0.0 
+0.0 0.0 0.0
+'''
+               a = semi-major axis (in AU)
+               e = eccentricity
+               I = inclination (degrees)
+               g = argument of pericentre (degrees)
+               n = longitude of the ascending node (degrees)
+               M = mean anomaly (degrees)
+'''

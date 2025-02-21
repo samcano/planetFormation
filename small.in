@@ -1,0 +1,6 @@
+)O+_06 Small-body initial data  (WARNING: Do not delete this line!!) 
+) Lines beginning with ) are ignored. 
+)--------------------------------------------------------------------- 
+ style (Cartesian,Asteroidal, Cometary) = Asteroidal 
+)—————————————————————————————————— 
+HALLEY   Ep=2446480.5  a1=0.04d-8 A2 =0.0155d-8
