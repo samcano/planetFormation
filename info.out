@@ -1,5 +1,40 @@
 
- WARNING: Truncating the name of this object to 8 characters:  bigTestPlanet
+           Integration parameters
+           ----------------------
 
- ERROR: A problem occurred reading data for this object:  bigTestP
-        Check the file containing initial data for Big bodies. 
+   Algorithm: Hybrid symplectic integrator (mixed coordinates)
+
+   Integration start epoch:               0.0000000 days 
+   Integration stop  epoch:     3.6525000000000E+11
+   Output interval:                 3652500.000
+   Output precision:                 high
+
+   Initial timestep:                6.000 days 
+   Accuracy parameter:              1.0000E-15
+   Central mass:                    1.0000E+00 solar masses
+   J_2:                              0.0000E+00
+   J_4:                              0.0000E+00
+   J_6:                              0.0000E+00
+   Ejection distance:               1.0000E+02 AU
+   Radius of central body:          2.5000E-02 AU
+
+   Includes collisions:                 yes
+   Includes fragmentation:              no 
+   Includes relativity:                 no 
+   Includes user-defined force routine: no 
+
+   Number of Big bodies:        8
+   Number of Small bodies:      1
+
+
+           Integration details
+           -------------------
+
+   Initial energy:           -3.32144E-08 solar masses AU^2 day^-2 
+   Initial angular momentum:  6.08075E-05 solar masses AU^2 day^-1 
+
+   Integrating massive bodies and particles up to the same epoch.
+
+   Beginning the main integration.
+
+ HALLEY   ejected at     160008.3778234 years

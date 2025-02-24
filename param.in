@@ -25,7 +25,7 @@
 ) These parameters do not need to be adjusted often:
 )---------------------------------------------------------------------
  ejection distance (AU)= 100
- radius of central body (AU) = 0.1
+ radius of central body (AU) = 0.025
  central mass (solar) = 1.0
  central J2 = 0
  central J3 = 0
